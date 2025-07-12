@@ -70,51 +70,7 @@
                             <!-- Job Description Input Area -->
                             <div class="mt-4">
                                 <label for="jobInfo" class="block text-sm font-medium text-gray-700 mb-1">Job description</label>
-                                <textarea required id="jobInfo" name="jobInfo" rows="4" class="w-full border border-gray-300 rounded-lg py-2 px-3 text-gray-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 resize-vertical whitespace-pre-wrap" placeholder="Paste the full job description or requirements here.">Full job description
-Responsibilities:
-
-Design, build, and maintain scalable APIs for internal and external systems
-Integrate APIs between different platforms (e.g., e-commerce, CRM, ERP)
-Troubleshoot and resolve API-related issues in a timely manner
-Ensure API security, performance, and documentation are up to standard
-Collaborate with developers, frontend teams, and third-party services
-Stay up to date with the latest trends in API development and best practices
-Monitor and analyze API traffic and logs for performance improvements
-Support ongoing integration projects and provide technical recommendations
-⸻
-
-Qualifications:
-
-Bachelor’s degree in Computer Science, IT, or related field (or equivalent experience)
-Solid experience with RESTful and SOAP APIs
-Proficient in at least one backend language (Node.js, Python, PHP, etc.)
-Knowledge of API testing tools (Postman, Swagger, etc.)
-Familiar with CLICK UPS,VOICE FLOW, XML, and web services
-Strong problem-solving skills and attention to detail
-Experience with API security and authentication (voice flow , click up etc.)
-Job Types: Full-time, Permanent, Fresh graduate
-
-Pay: Php20,000.00 - Php22,000.00 per month
-
-Benefits:
-
-Company Christmas gift
-Employee discount
-Opportunities for promotion
-Paid training
-Pay raise
-Promotion to permanent employee
-Schedule:
-
-8 hour shift
-Holidays
-Monday to Friday
-On call
-Overtime
-Weekends
-Work Location: In person
-
-Expected Start Date: 07/09/2025</textarea>
+                                <textarea required id="jobInfo" name="jobInfo" rows="4" class="w-full border border-gray-300 rounded-lg py-2 px-3 text-gray-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 resize-vertical whitespace-pre-wrap" placeholder="Paste the full job description or requirements here."></textarea>
                             </div>
                             <!-- Additional Info Input Area -->
                             <div class="mt-4">
