@@ -6,7 +6,7 @@
             {{-- Page Header --}}
             <div class="text-center mb-12">
                 <h1 class="text-4xl font-bold text-blue-600 mb-4">Welcome to Inkwell!</h1>
-                <p class="text-lg text-gray-600">Where you can generate a cover letter on the instantly for free!</p>
+                <p class="text-lg text-gray-600">Where you can generate a cover letter instantly for free!</p>
                 <p class="text-lg text-gray-600">Upload your resume in PDF form!</p>    
             </div>
 
