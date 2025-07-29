@@ -1,11 +1,6 @@
-
-# Description
-
-**Inkwell** is an AI-powered web application built with Laravel that generates professional, personalized cover letters in seconds. Simply upload your resume (PDF), paste a job description, and choose your preferred writing style. Inkwell uses Google Gemini AI to craft a tailored cover letter, which you can edit in the browser and download as a PDF. The app features a modern, user-friendly interface with drag-and-drop upload, privacy-first design, and no data retention.
-
 # Inkwell: AI-Powered Cover Letter Generator
 
-Welcome to **Inkwell**, a modern Laravel web application that helps you generate professional cover letters instantly and for free! Upload your resume, paste a job description, and let AI craft a tailored cover letter you can download as a PDF.
+Welcome to **Inkwell**, a modern Laravel web application that leverages Google Gemini AI to generate professional, personalized cover letters in seconds! Simply upload your resume (PDF), paste a job description, and choose your preferred writing style. Inkwell crafts a tailored cover letter that you can edit directly in your browser and download as a PDF. The app boasts a modern, user-friendly interface with drag-and-drop upload, a privacy-first design, and no data retention, ensuring your information remains secure.
 
 <p align="center">
   <img src="public/inkwell_logo_transparent_orig.png" alt="Inkwell Logo"/>
