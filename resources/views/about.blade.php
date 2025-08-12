@@ -21,7 +21,7 @@
                         <li>Easy drag-and-drop PDF upload</li>
                         <li>Customizable writing style and additional info fields</li>
                         <li>Instant AI-generated cover letter with editable output</li>
-                        <li>Download as DOCX or PDF (Coming Soon!)</li>
+                        <li>Download as PDF</li>
                     </ul>
                     <p>
                         <span class="font-semibold">Why Inkwell?</span><br>
